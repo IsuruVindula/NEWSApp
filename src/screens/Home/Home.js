@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
 const Home = () => {
     return (
         <View style={styles.container}>
-            <ArticleCards imageUrl="image" title="title" source="asdsdf" publishedAt="pass time stamp"/>
+            <ArticleCards imageUrl="image" title="title" source="asdsdf" published="2020-06-03T00:52:00z"  />
         </View>
     )
 }
